@@ -35,6 +35,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Harold-24/Harold-24/output/snake.svg" alt="Snake animation" />
 
 ###
