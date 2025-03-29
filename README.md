@@ -1,4 +1,4 @@
-<p align="left">Harold Pinto</p>
+<p align="center">Harold Pinto</p>
 
 ###
 
